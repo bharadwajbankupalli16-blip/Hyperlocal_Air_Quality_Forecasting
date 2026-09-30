@@ -1,0 +1,231 @@
+Location_ID,Station_Name,Sensor_ID,Parameter,Units,Display_Name,Latitude,Longitude
+407,"Zoo Park, Hyderabad - TSPCB",712,no2,µg/m³,NO₂ mass,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",711,o3,µg/m³,O₃ mass,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",710,co,µg/m³,CO mass,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",715,pm10,µg/m³,PM10,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",714,pm25,µg/m³,PM2.5,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",713,so2,µg/m³,SO₂ mass,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235585,so2,ppb,SO₂,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235581,o3,µg/m³,O₃ mass,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235579,no,ppb,NO,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235584,relativehumidity,%,RH,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235578,co,ppb,CO,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235580,no2,ppb,NO₂,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235586,temperature,c,Temperature (C),17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235583,pm25,µg/m³,PM2.5,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",12235582,pm10,µg/m³,PM10,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",14340862,wind_direction,deg,Wind direction,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",14340861,nox,ppb,NOX,17.349694,78.451437
+407,"Zoo Park, Hyderabad - TSPCB",14340863,wind_speed,m/s,Wind speed,17.349694,78.451437
+2459,US Diplomatic Post: Hyderabad,4720,pm25,µg/m³,PM2.5,17.443464,78.47489
+2594,"Sanathnagar, Hyderabad - TSPCB",5389,o3,µg/m³,O₃ mass,17.42329722,78.47469722
+2594,"Sanathnagar, Hyderabad - TSPCB",9128,so2,µg/m³,SO₂ mass,17.42329722,78.47469722
+2594,"Sanathnagar, Hyderabad - TSPCB",9127,pm25,µg/m³,PM2.5,17.42329722,78.47469722
+2594,"Sanathnagar, Hyderabad - TSPCB",5387,co,µg/m³,CO mass,17.42329722,78.47469722
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235400,pm25,µg/m³,PM2.5,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235399,pm10,µg/m³,PM10,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235402,so2,ppb,SO₂,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235403,temperature,c,Temperature (C),17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235401,relativehumidity,%,RH,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235398,o3,µg/m³,O₃ mass,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235395,co,ppb,CO,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235396,no,ppb,NO,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",12235397,no2,ppb,NO₂,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14340835,wind_speed,m/s,Wind speed,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14340834,wind_direction,deg,Wind direction,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14340833,nox,ppb,NOX,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14820,co,µg/m³,CO mass,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14842,no2,µg/m³,NO₂ mass,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14843,o3,µg/m³,O₃ mass,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",14813,pm10,µg/m³,PM10,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",15217,pm25,µg/m³,PM2.5,17.540891,78.358528
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",15221,so2,µg/m³,SO₂ mass,17.540891,78.358528
+5623,"Central University, Hyderabad - TSPCB",12242116,co,ppb,CO,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242118,no2,ppb,NO₂,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242119,o3,µg/m³,O₃ mass,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242121,pm25,µg/m³,PM2.5,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",14340846,wind_direction,deg,Wind direction,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242124,temperature,c,Temperature (C),17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",14340845,nox,ppb,NOX,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242120,pm10,µg/m³,PM10,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",14340847,wind_speed,m/s,Wind speed,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242123,so2,ppb,SO₂,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242122,relativehumidity,%,RH,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",12242117,no,ppb,NO,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",15046,pm10,µg/m³,PM10,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",15167,so2,µg/m³,SO₂ mass,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",14918,no2,µg/m³,NO₂ mass,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",15178,pm25,µg/m³,PM2.5,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",15034,o3,µg/m³,O₃ mass,17.460103,78.334361
+5623,"Central University, Hyderabad - TSPCB",15193,co,µg/m³,CO mass,17.460103,78.334361
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235406,no2,ppb,NO₂,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235405,no,ppb,NO,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235411,so2,ppb,SO₂,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235404,co,ppb,CO,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235412,temperature,c,Temperature (C),17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235408,pm10,µg/m³,PM10,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235409,pm25,µg/m³,PM2.5,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235407,o3,µg/m³,O₃ mass,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",12235410,relativehumidity,%,RH,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",14340837,wind_direction,deg,Wind direction,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",14340838,wind_speed,m/s,Wind speed,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",14340836,nox,ppb,NOX,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15254,pm25,µg/m³,PM2.5,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15233,so2,µg/m³,SO₂ mass,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15267,pm10,µg/m³,PM10,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15173,no2,µg/m³,NO₂ mass,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15037,co,µg/m³,CO mass,17.5184,78.278777
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",15188,o3,µg/m³,O₃ mass,17.5184,78.278777
+5647,"Sanathnagar, Hyderabad - TSPCB",15065,pm25,µg/m³,PM2.5,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",15061,so2,µg/m³,SO₂ mass,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",15049,co,µg/m³,CO mass,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",15051,no2,µg/m³,NO₂ mass,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",15058,o3,µg/m³,O₃ mass,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",14340855,nox,ppb,NOX,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",14340856,wind_direction,deg,Wind direction,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242126,no,ppb,NO,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242125,co,ppb,CO,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",14340857,wind_speed,m/s,Wind speed,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242129,pm25,µg/m³,PM2.5,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242127,no2,ppb,NO₂,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242130,relativehumidity,%,RH,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242132,temperature,c,Temperature (C),17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242128,o3,µg/m³,O₃ mass,17.4559458,78.4332152
+5647,"Sanathnagar, Hyderabad - TSPCB",12242131,so2,ppb,SO₂,17.4559458,78.4332152
+8557,Hyderabad,24857,pm25,µg/m³,PM2.5,17.38405,78.45636
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36691,o3,µg/m³,O₃ mass,17.5184,78.278777
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36686,pm25,µg/m³,PM2.5,17.5184,78.278777
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36520,co,µg/m³,CO mass,17.5184,78.278777
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36692,no2,µg/m³,NO₂ mass,17.5184,78.278777
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36683,so2,µg/m³,SO₂ mass,17.5184,78.278777
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",36689,pm10,µg/m³,PM10,17.5184,78.278777
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237100,so2,ppb,SO₂,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237093,co,ppb,CO,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237096,o3,µg/m³,O₃ mass,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237097,pm10,µg/m³,PM10,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237094,no,ppb,NO,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237101,temperature,c,Temperature (C),17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237098,pm25,µg/m³,PM2.5,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237099,relativehumidity,%,RH,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",12237095,no2,ppb,NO₂,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",14341202,nox,ppb,NOX,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",14341203,wind_direction,deg,Wind direction,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",14341204,wind_speed,m/s,Wind speed,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960395,o3,µg/m³,O₃ mass,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960397,co,µg/m³,CO mass,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960403,no2,µg/m³,NO₂ mass,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960401,so2,µg/m³,SO₂ mass,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960400,pm10,µg/m³,PM10,17.470431,78.566959
+344103,"ECIL Kapra, Hyderabad - TSPCB",1960399,pm25,µg/m³,PM2.5,17.470431,78.566959
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237125,pm25,µg/m³,PM2.5,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237126,relativehumidity,%,RH,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237128,temperature,c,Temperature (C),17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237121,no,ppb,NO,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237122,no2,ppb,NO₂,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237124,pm10,µg/m³,PM10,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237127,so2,ppb,SO₂,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237123,o3,µg/m³,O₃ mass,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",12237120,co,ppb,CO,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",14341209,wind_direction,deg,Wind direction,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",14341208,nox,ppb,NOX,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",14341210,wind_speed,m/s,Wind speed,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960398,no2,µg/m³,NO₂ mass,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960405,so2,µg/m³,SO₂ mass,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960396,co,µg/m³,CO mass,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960394,pm25,µg/m³,PM2.5,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960404,pm10,µg/m³,PM10,17.544898999999997,78.486949
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",1960402,o3,µg/m³,O₃ mass,17.544898999999997,78.486949
+344140,"Somajiguda, Hyderabad - TSPCB",12237117,relativehumidity,%,RH,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237111,co,ppb,CO,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237112,no,ppb,NO,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237114,o3,µg/m³,O₃ mass,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237113,no2,ppb,NO₂,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237115,pm10,µg/m³,PM10,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237118,so2,ppb,SO₂,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237116,pm25,µg/m³,PM2.5,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",12237119,temperature,c,Temperature (C),17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",14341205,nox,ppb,NOX,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",14341207,wind_speed,m/s,Wind speed,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",14341206,wind_direction,deg,Wind direction,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960599,so2,µg/m³,SO₂ mass,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960600,o3,µg/m³,O₃ mass,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960587,pm25,µg/m³,PM2.5,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960606,pm10,µg/m³,PM10,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960604,co,µg/m³,CO mass,17.417094,78.457437
+344140,"Somajiguda, Hyderabad - TSPCB",1960586,no2,µg/m³,NO₂ mass,17.417094,78.457437
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237136,so2,ppb,SO₂,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237134,pm25,µg/m³,PM2.5,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237130,no,ppb,NO,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237133,pm10,µg/m³,PM10,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237132,o3,µg/m³,O₃ mass,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237129,co,ppb,CO,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237137,temperature,c,Temperature (C),17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237131,no2,ppb,NO₂,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",12237135,relativehumidity,%,RH,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",14341211,nox,ppb,NOX,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",14341212,wind_direction,deg,Wind direction,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",14341213,wind_speed,m/s,Wind speed,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960601,co,µg/m³,CO mass,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960613,no2,µg/m³,NO₂ mass,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960597,pm10,µg/m³,PM10,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960594,o3,µg/m³,O₃ mass,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960609,pm25,µg/m³,PM2.5,17.429398,78.569354
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1960596,so2,µg/m³,SO₂ mass,17.429398,78.569354
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242161,no2,ppb,NO₂,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242162,o3,µg/m³,O₃ mass,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242165,relativehumidity,%,RH,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242163,pm10,µg/m³,PM10,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242167,temperature,c,Temperature (C),17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242160,no,ppb,NO,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",14341217,nox,ppb,NOX,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",14341218,wind_direction,deg,Wind direction,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242166,so2,ppb,SO₂,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242159,co,ppb,CO,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",12242164,pm25,µg/m³,PM2.5,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",14341219,wind_speed,m/s,Wind speed,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970973,pm10,µg/m³,PM10,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970965,so2,µg/m³,SO₂ mass,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970971,no2,µg/m³,NO₂ mass,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970974,o3,µg/m³,O₃ mass,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970972,co,µg/m³,CO mass,17.528544,78.28619499999999
+346257,"Ramachandrapuram, Hyderabad - TSPCB",1970968,pm25,µg/m³,PM2.5,17.528544,78.28619499999999
+346258,"Kokapet, Hyderabad - TSPCB",12237161,pm25,µg/m³,PM2.5,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237157,no,ppb,NO,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237163,so2,ppb,SO₂,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237156,co,ppb,CO,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237164,temperature,c,Temperature (C),17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237162,relativehumidity,%,RH,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237160,pm10,µg/m³,PM10,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237158,no2,ppb,NO₂,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",12237159,o3,µg/m³,O₃ mass,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",14341223,nox,ppb,NOX,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",14341224,wind_direction,deg,Wind direction,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",14341225,wind_speed,m/s,Wind speed,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",1970969,no2,µg/m³,NO₂ mass,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",1970970,pm25,µg/m³,PM2.5,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",1970975,so2,µg/m³,SO₂ mass,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",1970966,pm10,µg/m³,PM10,17.393559,78.33919399999999
+346258,"Kokapet, Hyderabad - TSPCB",1970967,co,µg/m³,CO mass,17.393559,78.33919399999999
+352465,"New Malakpet, Hyderabad - TSPCB",12237091,so2,ppb,SO₂,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237092,temperature,c,Temperature (C),17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237088,pm10,µg/m³,PM10,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237089,pm25,µg/m³,PM2.5,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237085,no,ppb,NO,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237086,no2,ppb,NO₂,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237090,relativehumidity,%,RH,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237087,o3,µg/m³,O₃ mass,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",12237084,co,ppb,CO,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",14341201,wind_speed,m/s,Wind speed,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",14341199,nox,ppb,NOX,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",14341200,wind_direction,deg,Wind direction,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002324,co,µg/m³,CO mass,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002329,pm10,µg/m³,PM10,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002327,pm25,µg/m³,PM2.5,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002328,no2,µg/m³,NO₂ mass,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002326,so2,µg/m³,SO₂ mass,17.37206,78.50864
+352465,"New Malakpet, Hyderabad - TSPCB",2002325,o3,µg/m³,O₃ mass,17.37206,78.50864
+4720578,Hyderabad,13317466,pm1,µg/m³,PM1,17.492676,78.405394
+4720578,Hyderabad,13317467,pm25,µg/m³,PM2.5,17.492676,78.405394
+4720578,Hyderabad,13317468,relativehumidity,%,RH,17.492676,78.405394
+4720578,Hyderabad,13317469,temperature,c,Temperature (C),17.492676,78.405394
+4720578,Hyderabad,13317470,um003,particles/cm³,PM0.3 count,17.492676,78.405394

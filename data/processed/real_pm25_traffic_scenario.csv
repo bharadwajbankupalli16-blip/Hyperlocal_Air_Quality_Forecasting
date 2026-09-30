@@ -1,0 +1,3 @@
+Station_Name,DateTime,OpenAQ_PM2_5,Traffic_Volume,Baseline_PM2_5,Scenario_PM2_5,PM2_5_Change,Reduction_Percent,Traffic_Reduction_Percent,Traffic_Source
+"Bollaram Industrial Area, Hyderabad - TSPCB",2025-02-19 23:00:00+00:00,40.0,253,50.166666666666664,50.166666666666664,0.0,0.0,20,Synthetic prototype
+"Zoo Park, Hyderabad - TSPCB",2025-02-19 23:00:00+00:00,64.0,304,52.39,52.39,0.0,0.0,20,Synthetic prototype

@@ -1,0 +1,1 @@
+DateTime,Neighborhood,Temperature_C,Humidity_Percent,Wind_Speed_mps,Traffic_Volume,PM2_5,PM10,NO2,CO,O3,AQI,Real_Temperature_C,Real_Humidity_Percent,Real_Wind_Speed_mps,Precipitation_mm,Real_PM2_5,Real_PM10,Real_CO,Real_NO2,Real_O3,Real_SO2,Aerosol_Optical_Depth,Location,Latitude,Longitude,AQI_Data_Source,Weather_Data_Source,Air_Quality_Data_Source

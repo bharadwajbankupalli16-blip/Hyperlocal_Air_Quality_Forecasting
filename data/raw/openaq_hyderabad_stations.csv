@@ -1,0 +1,18 @@
+Location_ID,Station_Name,Locality,Country,Latitude,Longitude,Is_Monitor,Is_Mobile,Timezone,Provider,Owner
+407,"Zoo Park, Hyderabad - TSPCB",,India,17.349694,78.451437,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+2459,US Diplomatic Post: Hyderabad,,India,17.443464,78.47489,True,False,Asia/Kolkata,StateAir Hyderabad,Unknown Governmental Organization
+2594,"Sanathnagar, Hyderabad - TSPCB",,India,17.42329722,78.47469722,True,False,Asia/Kolkata,CPCB,Unknown Governmental Organization
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",,India,17.540891,78.358528,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+5623,"Central University, Hyderabad - TSPCB",,India,17.460103,78.334361,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",,India,17.5184,78.278777,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+5647,"Sanathnagar, Hyderabad - TSPCB",,India,17.4559458,78.4332152,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+8557,Hyderabad,India,India,17.38405,78.45636,True,False,Asia/Kolkata,AirNow,Unknown Governmental Organization
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",,India,17.5184,78.278777,True,False,Asia/Kolkata,caaqm,Unknown Governmental Organization
+344103,"ECIL Kapra, Hyderabad - TSPCB",,India,17.470431,78.566959,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",,India,17.544898999999997,78.486949,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+344140,"Somajiguda, Hyderabad - TSPCB",,India,17.417094,78.457437,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",,India,17.429398,78.569354,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+346257,"Ramachandrapuram, Hyderabad - TSPCB",,India,17.528544,78.28619499999999,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+346258,"Kokapet, Hyderabad - TSPCB",,India,17.393559,78.33919399999999,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+352465,"New Malakpet, Hyderabad - TSPCB",,India,17.37206,78.50864,True,False,Asia/Kolkata,CPCB,Telangana State Pollution Control Board
+4720578,Hyderabad,,India,17.492676,78.405394,False,False,Asia/Kolkata,AirGradient,AirGradient
